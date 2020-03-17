@@ -1,2 +1,2 @@
 # ML-Accident-Crash
-Hackerearth challaenge
+Hackerearth challenge
